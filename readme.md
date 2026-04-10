@@ -109,7 +109,7 @@ El sistema se alimenta principalmente desde el puerto USB del equipo de cómputo
 
 ### 5.6 Maqueta final
 
-[Maqueta](../webcam/images/Maqueta.jpeg)
+[Maqueta](/images/Maqueta.jpeg)
 
 ---
 
@@ -154,7 +154,7 @@ El comportamiento del hardware se basa en una lógica binaria simple:
 
 Este diseño garantiza una respuesta visual clara y evita que los LEDs permanezcan encendidos de forma indefinida.
 
-[Maquetado Arduino](../webcam/images/Arduino.jpeg)
+[Maquetado Arduino](/images/Arduino.jpeg)
 
 ---
 
