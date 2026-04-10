@@ -3,7 +3,9 @@
 ## Portada
 
 **Materia:** Inteligencia Artificial 1
+
 **Proyecto:** Sistema de visión artificial para detección de personas con activación de LEDs mediante Arduino
+
 **Equipo de trabajo:**
 
 * Alan Fernando Sánchez Romero
