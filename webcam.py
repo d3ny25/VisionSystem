@@ -18,7 +18,7 @@ last_image_base64 = None
 camera_index = None
 
 try:
-    arduino = serial.Serial('COM5', 9600, timeout=1)
+    arduino = serial.Serial('COM6', 9600, timeout=1)
     time.sleep(2)
     print("Arduino conectado")
 except:

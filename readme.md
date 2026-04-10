@@ -107,6 +107,10 @@ Para garantizar un funcionamiento seguro y evitar daños en los componentes, cad
 
 El sistema se alimenta principalmente desde el puerto USB del equipo de cómputo, que cumple una doble función: suministrar energía a la placa Arduino y establecer la comunicación serial con el programa desarrollado en Python. Esta configuración facilita el montaje, ya que no requiere una fuente externa adicional para la parte de control.
 
+### 5.6 Maqueta final
+
+[Maqueta](../webcam/images/Maqueta.jpeg)
+
 ---
 
 ## 6. Configuración del hardware
@@ -149,6 +153,8 @@ El comportamiento del hardware se basa en una lógica binaria simple:
 * Después de un tiempo definido, ambos LEDs se apagan automáticamente.
 
 Este diseño garantiza una respuesta visual clara y evita que los LEDs permanezcan encendidos de forma indefinida.
+
+[Maquetado Arduino](../webcam/images/Arduino.jpeg)
 
 ---
 
